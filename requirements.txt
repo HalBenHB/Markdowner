@@ -1,0 +1,3 @@
+markitdown[all]
+docling
+pymupdf4llm
