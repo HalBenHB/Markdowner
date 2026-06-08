@@ -5,6 +5,7 @@ the standalone runners. Focus is PDF -> Markdown, but the other export formats
 exposed by docling / pymupdf4llm are available too.
 """
 
+
 from __future__ import annotations
 
 import cli_common as cli
